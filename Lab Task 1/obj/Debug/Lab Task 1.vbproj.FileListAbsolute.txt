@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\Lab Task 1\Lab Task 1\bin\Debug\Lab Task 1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lab Task 1\Lab Task 1\bin\Debug\Lab Task 1.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab Task 1\Lab Task 1\bin\Debug\Lab Task 1.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab Task 1\Lab Task 1\bin\Debug\Lab Task 1.xml
+c:\users\user\documents\visual studio 2015\Projects\Lab Task 1\Lab Task 1\obj\Debug\Lab Task 1.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Lab Task 1\Lab Task 1\obj\Debug\Lab_Task_1.AboutBox1.resources
+c:\users\user\documents\visual studio 2015\Projects\Lab Task 1\Lab Task 1\obj\Debug\Lab_Task_1.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Lab Task 1\Lab Task 1\obj\Debug\Lab_Task_1.SplashScreen1.resources
+c:\users\user\documents\visual studio 2015\Projects\Lab Task 1\Lab Task 1\obj\Debug\Lab Task 1.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Lab Task 1\Lab Task 1\obj\Debug\Lab Task 1.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab Task 1\Lab Task 1\obj\Debug\Lab Task 1.xml
+c:\users\user\documents\visual studio 2015\Projects\Lab Task 1\Lab Task 1\obj\Debug\Lab Task 1.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab Task 1\Lab Task 1\obj\Debug\Lab_Task_1.BTNAboutBox1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab Task 1\Lab Task 1\obj\Debug\Lab_Task_1.Game_Error.resources
