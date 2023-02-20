@@ -37,7 +37,7 @@ Partial Class BTNAboutBox1
         Me.Label1.AutoSize = True
         Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!)
-        Me.Label1.Location = New System.Drawing.Point(217, 286)
+        Me.Label1.Location = New System.Drawing.Point(193, 286)
         Me.Label1.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(105, 25)
@@ -61,7 +61,7 @@ Partial Class BTNAboutBox1
         Me.RadioButton1.AutoSize = True
         Me.RadioButton1.BackColor = System.Drawing.Color.Transparent
         Me.RadioButton1.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!)
-        Me.RadioButton1.Location = New System.Drawing.Point(196, 362)
+        Me.RadioButton1.Location = New System.Drawing.Point(198, 313)
         Me.RadioButton1.Margin = New System.Windows.Forms.Padding(2)
         Me.RadioButton1.Name = "RadioButton1"
         Me.RadioButton1.Size = New System.Drawing.Size(138, 29)
@@ -75,7 +75,7 @@ Partial Class BTNAboutBox1
         Me.RadioButton2.AutoSize = True
         Me.RadioButton2.BackColor = System.Drawing.Color.Transparent
         Me.RadioButton2.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!)
-        Me.RadioButton2.Location = New System.Drawing.Point(722, 362)
+        Me.RadioButton2.Location = New System.Drawing.Point(701, 324)
         Me.RadioButton2.Margin = New System.Windows.Forms.Padding(2)
         Me.RadioButton2.Name = "RadioButton2"
         Me.RadioButton2.Size = New System.Drawing.Size(143, 29)
